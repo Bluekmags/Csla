@@ -6,7 +6,7 @@ frontend:
       commands: []
   artifacts:
     # IMPORTANT - Please verify your build output directory
-    baseDirectory: C:\Users\kadem\amplifyapp\public\index.html
+    baseDirectory: /
     files:
       - '**/*'
   cache:
