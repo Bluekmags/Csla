@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import './NabBar.js';
 
 function App() {
   return (
+    <script src="NavBar.js"></script>
     <div className="App">
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
