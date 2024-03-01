@@ -2,9 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './navbar.js';
 
-NavBar();
+
 function App() {
   return (
+    NavBar();
     <div className="App">
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
