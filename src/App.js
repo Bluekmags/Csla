@@ -6,7 +6,7 @@ import NavBar from './navbar.js';
 function App() {
   return (
     <div className="App">
-    <script src="https://example.com/interactive_content.js"></script>
+    <script src="./navbar.js"></script>
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
       <p>“WVU ID: 800358279”</p>
