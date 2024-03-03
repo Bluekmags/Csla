@@ -6,8 +6,7 @@ import NavBar from './navbar.js';
 function App() {
   return (
     <div className="App">
-      <script>
-        NavBar();
+      <script src="navbar.js">
       </script>
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
