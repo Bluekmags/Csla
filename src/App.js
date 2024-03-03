@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <script type="module">
-         import NavBar from "./navbar.js";
+         import NavBar from "src/navbar.js";
          NavBar();
       </script>
       <h1>"CS 230L"</h1>
