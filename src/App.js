@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import NavBar from './navbar.js';
+import card from './Card.js';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <p>“WVU ID: 800358279”</p>
       <p>“Hi I am Kade McGlumphy”</p>
 
+      <card/>
     
     </div>
 
