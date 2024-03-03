@@ -1,4 +1,4 @@
-function card() {
+function cards() {
   return (
     
       <div class="card-group">
@@ -29,4 +29,4 @@ function card() {
   );
 }
 
-export default card;
+export default cards;
