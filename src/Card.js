@@ -1,23 +1,28 @@
 function Cardwork() {
   return (
-    <div class="card-deck">
-      
+    <div class="row">
+      <div class="col-sm-6">
         <div class="card">
           <div class="card-body">
             This is some text within a card body.
           </div>
         </div>
-      
-    <div class="card">
-        <div class="card-body">
-          This is some text within a card body.
+      </div>
+      <div class="col-sm-6">
+        <div class="card">
+          <div class="card-body">
+            This is some text within a card body.
+          </div>
         </div>
       </div>
-    <div class="card">
-        <div class="card-body">
-          This is some text within a card body.
+      <div class="col-sm-6">
+        <div class="card">
+          <div class="card-body">
+            This is some text within a card body.
+          </div>
         </div>
       </div>
+    
     </div>
     
   );
