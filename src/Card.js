@@ -1,7 +1,7 @@
 function Cardwork() {
   return (
     <div class="row">
-      <div class="col-sm-6">
+      <div class="col-sm-4">
         <div class="card">
           <div class="card-body">
             This is some text within a card body.
