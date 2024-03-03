@@ -24,6 +24,12 @@ function App() {
       <p>“WVU ID: 800358279”</p>
       <p>“Hi I am Kade McGlumphy”</p>
 
+    <div class="card">
+  <div class="card-body">
+    This is some text within a card body.
+  </div>
+  </div>
+
     
     </div>
 
