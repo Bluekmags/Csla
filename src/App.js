@@ -26,7 +26,7 @@ function App() {
 
     <div class="row">
       <div class="col">
-        <div class="card bg-blue text-white">
+        <div class="card bg-primary text-white">
           <div class="card-body">
             <h5 class="card-title">Special title treatment</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -34,7 +34,7 @@ function App() {
         </div>
       </div>
       <div class="col-sm-6">
-        <div class="card">
+        <div class="card bg-success text-white">
           <div class="card-body">
             <h5 class="card-title">Special title treatment</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -42,7 +42,7 @@ function App() {
         </div>
       </div>
       <div class="col-sm-6">
-        <div class="card">
+        <div class="card bg-green text-white">
           <div class="card-body">
             <h5 class="card-title">Special title treatment</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
