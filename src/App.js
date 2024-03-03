@@ -1,13 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import NavBar from './navbar.js';
 
 function App() {
   return (
     <div className="App">
-    <script type="module">
-         import NavBar from 'src/navbar.js';
-         
-      </script>
+      <NavBar>
          
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
