@@ -25,8 +25,8 @@ function App() {
       <p>“Hi I am Kade McGlumphy”</p>
 
     <div class="row">
-      <div class="col-sm-6">
-        <div class="card">
+      <div class="col">
+        <div class="card bg-blue text-white">
           <div class="card-body">
             <h5 class="card-title">Special title treatment</h5>
             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
