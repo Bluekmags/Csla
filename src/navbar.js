@@ -18,4 +18,3 @@ function NavBar() {
   );
 }
 
-export default App;
