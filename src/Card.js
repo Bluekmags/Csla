@@ -1,4 +1,4 @@
-function Card() {
+function cardwork() {
   return (
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
       <div class="card-header">Header</div>
@@ -11,4 +11,4 @@ function Card() {
   );
 }
 
-export default Card;
+export default cardwork;
