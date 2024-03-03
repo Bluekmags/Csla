@@ -1,14 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import NavBar from "src/navbar.js";
 
 function App() {
   return (
     <div className="App">
-      <script type="module">
-         import NavBar from "src/navbar.js";
-         NavBar();
-      </script>
+         import NavBar from 'src/navbar.js';
       <h1>"CS 230L"</h1>
       <h2>"Section 01</h2>
       <p>“WVU ID: 800358279”</p>
